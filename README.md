@@ -2,5 +2,5 @@
 
 Olá! Bem vindo ao meu livro de receitas
 
-1. Carne
-2. Sal
+1. Barbecue
+2. Pavê
